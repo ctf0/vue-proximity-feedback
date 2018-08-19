@@ -1,0 +1,22 @@
+{
+    "license": "MIT",
+    "version": "1.0.0",
+    "author": "ctf0",
+    "name": "vue-proximity-feedback",
+    "main": "src/ProximityFeedback.vue",
+    "description": "change item animation speed based on mouse proximity",
+    "homepage": "https://github.com/ctf0/vue-proximity-feedback",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ctf0/vue-proximity-feedback.git"
+    },
+    "peerDependecies": {
+        "vue": "^2.0.0"
+    },
+    "keywords": [
+        "vue",
+        "component",
+        "proximity-feedback",
+        "animation"
+    ]
+}
