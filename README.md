@@ -40,7 +40,8 @@ npm install vue-proximity-feedback --save
         :distance="{min: 10, max: 400}"
         :divide-by="125"
         @click.native="doSomthing()">
-            <i class="fa-search"></i>
+
+        <i class="fa-search"></i>
     </proximity-feedback>
     ```
 
