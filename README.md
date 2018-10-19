@@ -1,12 +1,16 @@
-# Vue Proximity Feedback
-
-[![npm](https://img.shields.io/npm/v/vue-proximity-feedback.svg?style=for-the-badge)](https://www.npmjs.com/package/vue-proximity-feedback) [![npm](https://img.shields.io/npm/dt/vue-proximity-feedback.svg?style=for-the-badge)](https://www.npmjs.com/package/vue-proximity-feedback)
+<h1 align="center" style="border: none">
+    Vue Proximity Feedback
+    <br>
+    <a href="https://www.npmjs.com/package/vue-proximity-feedback"><img src="https://img.shields.io/npm/v/vue-proximity-feedback.svg?style=for-the-badge" alt="npm" /></a> <a href="https://www.npmjs.com/package/vue-proximity-feedback"><img src="https://img.shields.io/npm/dt/vue-proximity-feedback.svg?style=for-the-badge" alt="npm" /></a>
+</h1>
 
 ## Installation
 
 ```bash
 npm install vue-proximity-feedback --save
 ```
+
+<br>
 
 ## Usage
 
@@ -57,6 +61,8 @@ npm install vue-proximity-feedback --save
     | animationClass | :white_check_mark: | string |                    |                                        |
     | distance       | :x:                | object | {min: 0, max: 100} |                                        |
     | divideBy       | :x:                | number | 100                | proximity / divideBy = animation speed |
+
+<br>
 
 ## TODO
 - fix frame stutter when animation speed change.
