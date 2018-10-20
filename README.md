@@ -19,7 +19,7 @@ npm install vue-proximity-feedback --save
     ```js
     window.Vue = require('vue')
 
-    Vue(ProximityFeedback, require('vue-proximity-feedback'))
+    Vue.component(ProximityFeedback, require('vue-proximity-feedback'))
     ```
 
 - create a css animation
