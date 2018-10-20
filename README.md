@@ -36,7 +36,7 @@ npm install vue-proximity-feedback --save
     ```
 
 - usage
-    ```vue
+    ```html
     <proximity-feedback
         ref="pfb"
         tag="div"
